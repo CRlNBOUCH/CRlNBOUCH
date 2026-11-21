@@ -18,7 +18,7 @@ Building data systems and intelligent applications, from batch and streaming pip
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an engineering student at **ENSA Tétouan**, specializing in **Big Data & Artificial Intelligence**, with graduation expected in 2027.
 
@@ -35,7 +35,7 @@ Currently looking for a **2027 PFE internship** where I can contribute to data a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,7 +69,8 @@ Currently looking for a **2027 PFE internship** where I can contribute to data a
 </p>
 
 </div>
-## 🚀 Featured Projects
+
+## Featured Projects
 
 <table>
 <tr>
@@ -142,7 +143,7 @@ A football analytics project focused on estimating the probability of a shot res
 </td>
 <td width="50%" valign="top">
 
-### 🔭 What's Next?
+### What's Next?
 
 Continuously exploring new technologies and engineering concepts.
 
@@ -156,7 +157,7 @@ More projects coming soon!
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### AI Engineering Intern — Centrale Danone
 *July – August 2026 | Morocco*
@@ -172,7 +173,7 @@ Worked on daily sales forecasting for dairy products across 100 store-product se
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Snowflake:** Modern Data Engineering; Developer / Data Engineer courses.
 - **IBM:** Python Project for Data Engineering; Python for Data Science, AI & Development.
@@ -180,19 +181,7 @@ Worked on daily sales forecasting for dairy products across 100 store-product se
 - **Oracle:** Cloud Infrastructure Foundations.
 - **Google:** Introduction to Git and GitHub.
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CRlNBOUCH&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRlNBOUCH&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
-
-</div>
-
----
 
 <div align="center">
 
