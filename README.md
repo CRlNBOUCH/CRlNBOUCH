@@ -1,10 +1,14 @@
+
 <div align="center">
 
-# Hi, I'm Yassir Lagnaoui 👋
+<img src="assets/profile-banner.png" width="100%" alt="Build, Analyze, Innovate" />
 
-### Big Data & AI Engineering Student | Data Engineering · Machine Learning · Computer Vision
+# Yassir Lagnaoui
 
-Building data-driven systems, from ingestion and orchestration to analytics and intelligent applications.
+### Big Data & AI Engineering Student
+**Data Engineering · Machine Learning · Applied AI**
+
+Building data systems and intelligent applications, from batch and streaming pipelines to predictive models.
 
 [![GitHub](https://img.shields.io/badge/GitHub-CRlNBOUCH-181717?style=flat&logo=github)](https://github.com/CRlNBOUCH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yassir-lagnaoui/)
@@ -14,109 +18,169 @@ Building data-driven systems, from ingestion and orchestration to analytics and 
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I'm a final-year engineering student in **Big Data & Artificial Intelligence at ENSA Tétouan**, graduating in 2027.
+I'm an engineering student at **ENSA Tétouan**, specializing in **Big Data & Artificial Intelligence**, with graduation expected in 2027.
 
-I enjoy designing and building practical systems that turn raw data into useful insights. My interests span:
+I enjoy designing and building practical solutions that turn raw data into useful insights.
 
-- **Data Engineering:** batch and streaming pipelines, ELT, orchestration, data modeling.
-- **Machine Learning:** predictive modeling, model evaluation, and applied AI.
-- **Computer Vision:** object detection, tracking, and visual analytics.
+My interests cover:
 
-I'm currently looking to apply these skills in a **PFE internship for 2027** and keep growing as a versatile engineer.
+- **Data Engineering:** Batch and streaming pipelines, ELT, orchestration and data modeling.
+- **Machine Learning:** Predictive modeling, feature engineering and model evaluation.
+- **Applied AI:** Deep learning, computer vision and intelligent applications.
+- **Engineering Practices:** Python development, Docker, Git workflows and Linux.
 
-## Tech stack
+Currently looking for a **2027 PFE internship** where I can contribute to data and AI projects while continuing to grow as a versatile engineer.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & data**
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+<img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" title="Python"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="48" alt="C++" title="C++"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="SQL" title="SQL"/>
 
-**Data engineering & platforms**
+### Data Engineering & Cloud
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" title="Apache Spark / PySpark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" height="48" alt="Kafka" title="Apache Kafka"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Airflow" title="Apache Airflow"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/dbt/FF694B" height="48" alt="dbt" title="dbt"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" title="Snowflake"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="48" alt="AWS" title="AWS"/>
 
-**AI, DevOps & tools**
+### AI, DevOps & Tools
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch" title="PyTorch"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="48" alt="Docker" title="Docker"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="48" alt="Linux" title="Linux"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" title="Git"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI"/>
 
 </div>
 
-## Featured projects
+---
 
-### 1. E-Commerce ELT Data Pipeline
-**AWS S3 · Snowflake · Airflow · dbt · Docker · Power BI**
+## 🚀 Featured Projects
 
-A cloud-oriented ELT project built around the Olist Brazilian marketplace dataset (100K+ orders across nine relational tables).
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Ingests raw data into AWS S3 and loads it into Snowflake.
-- Orchestrates workflows with Airflow deployed in Docker.
-- Builds tested dbt staging, fact, and dimension models.
-- Serves analytical data marts for sales, delivery, and customer analytics.
+### 🛒 Olist E-Commerce ELT Pipeline
 
-<!-- Replace the URL below with your repository URL when the project is published. -->
-**[View project](#)**
+**AWS S3 · Snowflake · dbt · Airflow · Docker · Python · SQL**
 
-### 2. Real-Time Football Telemetry Pipeline
+An end-to-end data engineering project built around the Olist Brazilian e-commerce dataset.
+
+- Raw data ingestion and cloud storage.
+- Snowflake as the cloud data warehouse.
+- dbt transformations and analytical data modeling.
+- Airflow workflow orchestration.
+- Docker-based environment.
+- Power BI dashboard for data analysis.
+
+[**📂 Explore Repository →**](https://github.com/CRlNBOUCH/olist_db_pipeline)
+
+
+<img src="assets/olist_db_architecture.png" width="100%" alt="Olist pipeline architecture"/>
+
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ Real-Time Football Telemetry Pipeline
+
 **Kafka · Python · PostgreSQL · Docker · Power BI**
 
-A streaming pipeline for ingesting and monitoring football player telemetry.
+A real-time data pipeline designed to ingest and monitor football player telemetry.
 
-- Streams player telemetry events through Kafka.
-- Processes events in Python and stores them in PostgreSQL.
-- Uses Docker to containerize the pipeline components.
-- Exposes the resulting data through a live Power BI dashboard.
+- Event production and consumption using separate components.
+- Apache Kafka for streaming data.
+- Python-based event processing.
+- PostgreSQL for data persistence.
+- Docker Compose for containerized deployment.
+- Power BI for real-time performance monitoring.
 
-<!-- Replace the URL below with your repository URL when the project is published. -->
-**[View project](#)**
+[**📂 Explore Repository →**](https://github.com/CRlNBOUCH/Real_time_football_pipeline)
 
-### 3. Football Player Tracking & Team Classification
-**Python · YOLO · Computer Vision**
 
-A computer vision workflow for analyzing football footage.
+<img src="assets/real_time_football_pipeline.jpg" width="100%" alt="Football telemetry dashboard"/>
 
-- Detects and tracks players, referees, goalkeepers, and the ball.
-- Assigns detected players to teams.
-- Maps player positions onto a 2D tactical pitch using perspective transformation.
 
-<!-- Replace the URL below with your repository URL when the project is published. -->
-**[View project](#)**
+</td>
+</tr>
 
-### 4. Image Captioning: Architecture Benchmark
-**Python · PyTorch · CNN-LSTM · Attention · Transformer · BLIP**
+<tr>
+<td width="50%" valign="top">
 
-An implementation and comparison of different image-captioning approaches, evaluating caption quality across architectures.
+### 📈 Expected Goals (xG) Model
 
-<!-- Replace the URL below with your repository URL when the project is published. -->
-**[View project](#)**
+**Python · Machine Learning · StatsBomb**
 
-## Experience
+A football analytics project focused on estimating the probability of a shot resulting in a goal.
 
-**AI Engineering Intern — Centrale Danone**  
-*July – August 2026 · Morocco*
+- StatsBomb event data collection.
+- Shot data exploration and preparation.
+- Expected-goals model implementation.
+- Visual exploration of football shooting patterns.
+
+[**📂 Explore Repository →**](https://github.com/CRlNBOUCH/xG_model)
+
+
+<img src="assets/xG_model.jpg" width="100%" alt="Expected goals visualization"/>
+
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 What's Next?
+
+Continuously exploring new technologies and engineering concepts.
+
+Interested in building scalable data platforms, distributed systems and practical AI applications.
+
+More projects coming soon!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### AI Engineering Intern — Centrale Danone
+*July – August 2026 | Morocco*
 
 Worked on daily sales forecasting for dairy products across 100 store-product series.
 
 - Built and compared XGBoost and LightGBM forecasting models.
-- Reached 87% forecast accuracy and reduced forecast error by 33% against a naive baseline.
+- Reached 87% forecast accuracy.
+- Reduced forecast error by 33% compared with a naive baseline.
 - Added P90 forecasts to support safety-stock planning.
 
-*The project used a simulated dataset because the company's real data was confidential.*
+<sub>The project used a simulated dataset because the company's real data was confidential.</sub>
 
-## Certifications
+---
+
+## 📜 Certifications
 
 - **Snowflake:** Modern Data Engineering; Developer / Data Engineer courses.
 - **IBM:** Python Project for Data Engineering; Python for Data Science, AI & Development.
@@ -124,16 +188,23 @@ Worked on daily sales forecasting for dairy products across 100 store-product se
 - **Oracle:** Cloud Infrastructure Foundations.
 - **Google:** Introduction to Git and GitHub.
 
-## A little more
+---
 
-- 📍 Morocco
-- 🎓 ENSA Tétouan — Engineering Degree in Big Data & AI, expected 2027
-- 🌍 English and French
-- 🎯 Interested in data platforms, applied AI, and building reliable end-to-end systems
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CRlNBOUCH&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRlNBOUCH&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
+
+</div>
 
 ---
 
 <div align="center">
+
+### Dream it. Build it. Deploy it.
 
 *Always learning, building, and improving.*
 
