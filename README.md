@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Build, Analyze, Innovate" />
+<img src="assets/profile_banner.png" width="100%" alt="Build, Analyze, Innovate" />
 
 # Yassir Lagnaoui
 
@@ -39,44 +39,36 @@ Currently looking for a **2027 PFE internship** where I can contribute to data a
 
 <div align="center">
 
-### Programming Languages
+**Programming Languages**
 
-<img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" title="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="48" alt="C++" title="C++"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="SQL" title="SQL"/>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
-### Data Engineering & Cloud
+**Data Engineering & Cloud**
 
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" title="Apache Spark / PySpark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" height="48" alt="Kafka" title="Apache Kafka"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Airflow" title="Apache Airflow"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/dbt/FF694B" height="48" alt="dbt" title="dbt"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" title="Snowflake"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="48" alt="AWS" title="AWS"/>
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" alt="dbt"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS"/>
+</p>
 
-### AI, DevOps & Tools
+**AI, DevOps & Tools**
 
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch" title="PyTorch"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="48" alt="Docker" title="Docker"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="48" alt="Linux" title="Linux"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" title="Git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI"/>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI"/>
+</p>
 
 </div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -99,7 +91,7 @@ An end-to-end data engineering project built around the Olist Brazilian e-commer
 [**📂 Explore Repository →**](https://github.com/CRlNBOUCH/olist_db_pipeline)
 
 
-<img src="assets/olist_db_architecture.png" width="100%" alt="Olist pipeline architecture"/>
+<img src="assets/olist_db_architecture.jpg" width="100%" alt="Olist pipeline architecture"/>
 
 
 </td>
